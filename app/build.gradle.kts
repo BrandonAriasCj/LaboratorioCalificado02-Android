@@ -6,7 +6,7 @@ plugins {
 
 android {
     namespace = "com.arias.brandon.laboratoriocalificado02"
-    compileSdk = 34
+    compileSdk = 35
 
     defaultConfig {
         applicationId = "com.arias.brandon.laboratoriocalificado02"
